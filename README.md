@@ -111,7 +111,7 @@ y luego cómo utilizarlos en el orden correcto.
 ## 🌐 Demo interactiva
 
 Para probar las consultas SQL sin necesidad de configurar una base de datos local, he preparado un entorno en DB Fiddle:
-[Reto SQL AlumniONE en DB Fiddle](https://www.db-fiddle.com/f/tN4Mi5UipRz4sqi2yceKUz/3)
+[Reto SQL AlumniONE en DB Fiddle](https://www.db-fiddle.com/f/tN4Mi5UipRz4sqi2yceKUz/4)
 
 ### Cómo usar la demo:
 1. El esquema y datos ya están cargados
