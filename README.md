@@ -4,7 +4,8 @@ Una colección de soluciones SQL optimizadas para el Reto del Comité AlumniONE,
 
 ## 📱 Vista Previa de las Soluciones 📱
 
-![SQL Challenge Preview](https://github.com/user-attachments/assets/placeholder-image.png)
+![SQL Challenge Preview]![Imagen Script Creacion Tablas](https://github.com/user-attachments/assets/d108756d-380a-43b3-82f0-83bfb2e46b36)
+
 
 ## ✨ Características
 
@@ -75,7 +76,8 @@ Para ejecutar y probar las soluciones:
 
 3. **Alternativamente**, puedes ejecutar cada ejercicio individualmente seleccionando la sección correspondiente.
 ```
-Esta estructura muestra claramente el flujo de trabajo, explicando primero qué archivos componen el proyecto y luego cómo utilizarlos en el orden correcto.
+Esta estructura muestra claramente el flujo de trabajo, explicando primero qué archivos componen el proyecto
+y luego cómo utilizarlos en el orden correcto.
 ```
 
 
@@ -123,19 +125,28 @@ Nota: Esta demo es complementaria a los archivos completos disponibles en este r
 ## 📱 Evidencia de pruebas
 
 ### Ejercicio 1: Productos con Precio Superior al Promedio
-![Ejercicio 1 - Prueba](screenshots/ejercicio1.png)
-![Ejercicio 1 - Resultados](screenshots/ejercicio1.png)
+![Ejercicio 1 - Prueba]![Prueba ejercicio 1](https://github.com/user-attachments/assets/8b7fa359-9eba-498b-bead-6ee59795d03b)
+
+![Ejercicio 1 - Resultados]![Resultado ejercicio 1](https://github.com/user-attachments/assets/954375d6-3384-493a-ba62-c72cf8255907)
+
 
 ### Ejercicio 4: Clasificación de Clientes por Total de Pedidos
-![Ejercicio 4 - Prueba](screenshots/ejercicio4.png)
-![Ejercicio 4 - Resultados](screenshots/ejercicio4.png)
+![Ejercicio 4 - Prueba]![Prueba ejercicio 4](https://github.com/user-attachments/assets/5a7f0006-e52c-4f72-b28f-06cba80adcd0)
+
+![Ejercicio 4 - Resultados]![Resultado ejercicio 4](https://github.com/user-attachments/assets/5db4b5a5-ee8a-4e28-a7d6-9ff914eb3147)
+
 
 ### Ejercicio 7: Combinación de Ventas 2023-2024
-![Ejercicio 7 - Consulta](screenshots/ejercicio7-consulta.png)
-![Ejercicio 7 - Resultados 2024](screenshots/ejercicio7-resultados-2024.png)
-![Ejercicio 7 - Resultados 2023](screenshots/ejercicio7-resultados-2023.png)
-![Ejercicio 7 - Análisis Comparativo](screenshots/ejercicio7-analisis.png)
-![Ejercicio 7 - Resultados Análisis Comparativo](screenshots/ejercicio7-analisis.png)
+![Ejercicio 7 - Consulta]![Consulta ejercicio 7](https://github.com/user-attachments/assets/b19d7fcd-4ee7-4bab-b3fa-cf6a6a3a9555)
+
+![Ejercicio 7 - Resultados 2023]![Resultado consulta ejercicio 7 2023](https://github.com/user-attachments/assets/1938843e-ecd4-4455-afd5-5d66a43a610d)
+
+![Ejercicio 7 - Resultados 2024]![Resulta consulta ejercicio 7 2024](https://github.com/user-attachments/assets/f22e1eb9-0012-4326-b803-cb33d5904bba)
+
+![Ejercicio 7 - Análisis Comparativo]![Analisis adicional ejercicio 7](https://github.com/user-attachments/assets/ad39a940-cf45-4071-8faa-c725b649106f)
+
+![Ejercicio 7 - Resultados Análisis Comparativo]![Resultado analisis adicional ejercicio  7](https://github.com/user-attachments/assets/a67b216a-f6f7-4b73-8c60-538a30595388)
+
 
 ## 📝 Descripción de la Prueba Técnica
 
